@@ -1,0 +1,92 @@
+{
+    "Services": [
+        {
+            "id": 1,
+            "title": "Mobile Ux",
+            "icon": "icon fa fa-chain fa-2x",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Doloribus quos omnis voluptas ea ipsam! Voluptas."
+
+        },
+        { "id": 2,
+            "title": "Web Ux",
+            "icon": "icon fa fa-bolt fa-2x",
+            "desc": " consectetur adipisicing  omnis voluptas ea ipsam! Voluptas."
+            },
+            { 
+            "id": 3,
+             "title": "Backend Services",
+            "icon": "icon fa fa-tachometer fa-2x",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+    "Portfolio": [
+        {
+            "id": 1,
+            "image": "images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "images/Portfolio/portfolio-img2.jpg"
+        },
+         {
+            "id": 3,
+            "image": "images/Portfolio/portfolio-img3.jpg"
+        },
+         {
+            "id": 4,
+            "image": "images/Portfolio/portfolio-img4.jpg"
+        },
+         {
+            "id": 5,
+            "image": "images/Portfolio/portfolio-img5.jpg"
+        },
+         {
+            "id": 6,
+            "image": "images/Portfolio/portfolio-img6.jpg"
+        }, {
+            "id": 7,
+            "image": "images/Portfolio/portfolio-img7.jpg"
+        },
+         {
+            "id": 8,
+            "image": "images/Portfolio/portfolio-img8.jpg"
+        }
+    ],
+    "Profile": [
+        {
+            "id": 1,
+            "title": "React.js",
+            "percentage": "100%"
+        },
+         {
+            "id": 2,
+            "title": "Express.js",
+            "percentage": "80%"
+        },
+         {
+            "id": 3,
+            "title": "Mongodb",
+            "percentage": "70%"
+        }
+    ],
+    "Social": [
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social Facebook"
+        },
+         {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me on",
+            "body": "Social twitter"
+        },
+         {
+            "id": 3,
+            "icon": "icon fa fa-pinterest fa-lg",
+            "title": "Pin Me on",
+            "body": "Social Pinterest"
+        }
+    ]
+}
